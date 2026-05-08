@@ -65,6 +65,7 @@ For each experiment, you will generate:
    git clone https://github.com/Eiravy/DS_VN.git
    cd DS_VN
 Run all Jupyter notebook files.
+**
 ## 👩‍💻 Author & Contact
 
 **Le Hong Vy Ngoc (Eiravy)**  
