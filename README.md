@@ -42,8 +42,8 @@ Focuses on **label noise injection** and the effect of removing noisy/high-value
 
 | Notebook | Focus |
 | :--- | :--- |
-| *(vyngoc_syn_ADD.ipynb)* | Inject label noise → Observe change in Shapley values |
-| *(vyngoc_syn_REMOVE.ipynb)* | Remove high-value vs low-value points → Compare final model performance |
+| *vyngoc_syn_ADD.ipynb* | Inject label noise → Observe change in Shapley values |
+| *vyngoc_syn_REMOVE.ipynb* | Remove high-value vs low-value points → Compare final model performance |
 
 > *Note: Exact filenames for synthetic experiments are not provided in your description – please replace placeholders with actual names.*
 
