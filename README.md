@@ -59,12 +59,6 @@ For each experiment, you will generate:
    - Maintains or improves performance
    - Outperforms random removal, especially under label noise.
 
-## 🚀 How to Reproduce
-**Clone the repository**
-   ```bash
-   git clone https://github.com/Eiravy/DS_VN.git
-   cd DS_VN
-Run all Jupyter notebook files.
 
 ## 👩‍💻 Author & Contact
 
@@ -76,3 +70,10 @@ Run all Jupyter notebook files.
 For questions, collaboration, or feedback, please feel free to reach out or open an issue on GitHub.
 
 ---
+
+## 🚀 How to Reproduce
+**Clone the repository**
+   ```bash
+   git clone https://github.com/Eiravy/DS_VN.git
+   cd DS_VN
+Run all Jupyter notebook files.
