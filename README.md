@@ -64,8 +64,8 @@ For each experiment, you will generate:
 
 **Le Hong Vy Ngoc (Eiravy)**  
 - GitHub: [@Eiravy](https://github.com/Eiravy)  
-- Email: [vyngoc.lehong@example.com](mailto:vyngoc.lehong@example.com) *(replace with your actual email)*  
-- LinkedIn: [Le Hong Vy Ngoc](https://linkedin.com/in/vyngoc-lehong) *(optional – add your profile)*
+- Email: [hongvyngoc.le@studenti.unimi.it](mailto:hongvyngoc.le@studenti.unimi.it) 
+- LinkedIn: [Le Hong Vy Ngoc](https://www.linkedin.com/in/hong-vy-ngoc-le/)
 
 For questions, collaboration, or feedback, please feel free to reach out or open an issue on GitHub.
 
