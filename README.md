@@ -62,7 +62,7 @@ For each experiment, you will generate:
 
 **Le Hong Vy Ngoc (Eiravy)**  
 - GitHub: [@Eiravy](https://github.com/Eiravy)  
-- Email: [hongvyngoc.le@studenti.unimi.it](mailto:hongvyngoc.le@studenti.unimi.it) 
+- Email: [hongvyngoc.le@studenti.unimi.it](mailto:hongvyngoc.le@studenti.unimi.it) - [vyngoc100@gmail.com](mailto:vyngoc100@gmail.com) 
 - LinkedIn: [Le Hong Vy Ngoc](https://www.linkedin.com/in/hong-vy-ngoc-le/)
 
 For questions, collaboration, or feedback, please feel free to reach out or open an issue on GitHub.
