@@ -57,6 +57,9 @@ For each experiment, you will generate:
    - Maintains or improves performance
    - Outperforms random removal, especially under label noise.
 
+## 🙏 Acknowledgements
+
+This project reproduces *Data Shapley: Equitable Valuation of Data for Machine Learning* (Ghorbani & Zou, ICML 2019). The core files `DShap.py`, `shap_utils.py` and `Shapley.py` are adapted from the authors' official code at https://github.com/amiratag/DataShapley (MIT License, © 2019 amiratag), updated to run on TensorFlow 2 and extended with new experiments.
 
 ## 👩‍💻 Author & Contact
 
