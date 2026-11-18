@@ -59,7 +59,7 @@ For each experiment, you will generate:
 
 ## 🙏 Acknowledgements
 
-This project reproduces *Data Shapley: Equitable Valuation of Data for Machine Learning* (Ghorbani & Zou, ICML 2019). The core files `DShap.py`, `shap_utils.py` and `Shapley.py` are adapted from the authors' official code at https://github.com/amiratag/DataShapley (MIT License, © 2019 amiratag), updated to run on TensorFlow 2 and extended with new experiments.
+This project reproduces Data Shapley: Equitable Valuation of Data for Machine Learning (Ghorbani & Zou, ICML 2019). The core files DShap.py, shap_utils.py and Shapley.py are adapted from the authors' official code at https://github.com/amiratag/DataShapley (MIT License, © 2019 amiratag). In this project, they were extended with a logistic regression implemented from scratch in NumPy (VN_LogisticRegression in shap_utils.py) and used for new experiments.
 
 ## 👩‍💻 Author & Contact
 
